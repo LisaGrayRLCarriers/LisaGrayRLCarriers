@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Lisa Gray and I'm a Technical Talent Sourcer at R+L Carriers!
 - 👀 I’m interested in connecting with experienced developers to join our growing company. 
-- 🌱 Our IMT department is always looking to add C#/.NET Developers and Oracle Developers to our team! 
+- 🌱 Our IMT department is always looking to add C#/.NET Developers and Oracle SQL Developers to our team! 
 - 📫 You can reach me at Lisa.Gray@rlcarriers.com or apply directly to our website at https://careers.rlcarriers.com/
 
 
